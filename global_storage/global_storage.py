@@ -1,0 +1,1 @@
+__global_storage__ = []  # It's generally a bad habit to use global variables. However, we can use it for visualization.
