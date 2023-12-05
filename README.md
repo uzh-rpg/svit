@@ -120,11 +120,11 @@ python seletor_demo.py data/coco/val2017/000000046252.jpg configs/mask_rcnn/demo
 ## Citation
 If this work is helpful for your research, please consider citing the following BibTex entry:
 ```
-@article{liu2023revisiting,
+@InProceedings{Liu_2024_WACV,
   title={Revisiting Token Pruning for Object Detection and Instance Segmentation},
   author={Liu, Yifei and Gehrig, Mathias and Messikommer, Nico and Cannici, Marco and Scaramuzza, Davide},
-  journal={arXiv preprint arXiv:2306.07050},
-  year={2023}
+  booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+  year={2024}
 }
 ```
 
